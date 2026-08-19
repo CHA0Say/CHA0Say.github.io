@@ -1,16 +1,11 @@
 body {
     background-color: white; 
     color: #111; 
-    font-family: verdana;
+    font-family: papyrus;
     text-align: center;
     font-size: 100%;
-    margin-top: 35px;
-    margin-bottom: 35px;
-}
-
-div.container {
-    width: 80%;
-    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
 p {
@@ -29,26 +24,12 @@ a.link:hover {
 a.button-link {
     background-color: #800;
     color: white;
-    padding: 15px 25px;
-    border-radius: 10px;
+    padding: 20px 100%;
+    border-radius: 15px;
     text-decoration: none;
-    text-align: center;
 }
+
 a.button-link:hover {
     background-color: #b00;
 }
 
-div.title-bar {
-    background-color: #800;
-    color: white;
-    padding: 5px;
-    width: 100%;
-    margin: auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-p.about-info {
-    color: #aaa;
-    font-size: 16px;
-}
