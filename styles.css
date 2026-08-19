@@ -32,6 +32,7 @@ a.button-link {
     padding: 15px 25px;
     border-radius: 10px;
     text-decoration: none;
+    text-align: center;
 }
 a.button-link:hover {
     background-color: #b00;
