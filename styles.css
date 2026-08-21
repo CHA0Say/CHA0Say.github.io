@@ -38,16 +38,19 @@ a.button-link {
 a.button-link:hover {
     background-color: #b00;
 }
+
 h1 {
     font-size: 150%;
     text-decoration: underline;
     color: #e66;
 }
+
 h2 {
     font-size: 120%;
     text-decoration: underline;
     color: #800;
 }
+
 div.title-bar {
     background-color: #400;
     color: white;
@@ -58,6 +61,7 @@ div.title-bar {
     margin-top: 0;
     margin-bottom: 20px;
 }
+
 a.small-button {
     background-color: #800;
     color: white;
@@ -70,4 +74,8 @@ a.small-button {
 
 a.small-button:hover {
     background-color: #b00;
+}
+
+p.hero {
+    color: #e12;
 }
