@@ -17,6 +17,19 @@ p {
     color: #111; 
 }
 
+/* Character speech colours */
+.hero {
+    color: #e12;
+}
+
+/* Keyword highlights */
+.keyGood {
+    color:#e12;
+}
+keyBad {
+    color: #21e;
+}
+
 h1 {
     font-size: 150%;
     text-decoration: underline;
@@ -40,7 +53,7 @@ div.title-bar {
     margin-bottom: 20px;
 }
 
-a.small-button {
+a.next {
     background-color: #800;
     color: white;
     padding: 20px 50px;
@@ -51,10 +64,8 @@ a.small-button {
     right: 5px;
 }
 
-a.small-button:hover {
+a.next:hover {
     background-color: #b00;
 }
 
-p.hero {
-    color: #e12;
-}
+
