@@ -9,7 +9,7 @@ body {
 }
 
 div.container {
-    width: 100%;
+    width: 95%;
     margin: auto;
     margin-left: 0;
 }
@@ -48,7 +48,7 @@ div.title-bar {
     background-color: #400;
     color: white;
     padding: 20px;
-    width: 100%;
+    width: 90%;
     margin: auto;
     margin-top: 0;
     margin-bottom: 15px;
