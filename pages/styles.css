@@ -1,6 +1,6 @@
 body {
     background-color: white; 
-    color: #111; 
+    color: #aea; 
     font-family: papyrus;
     text-align: center;
     font-size: 100%;
@@ -48,8 +48,8 @@ a.small-button {
     border-radius: 15px;
     text-decoration: none;
     position: fixed;
-    bottom: 0;
-    right: 0;
+    bottom: 5px;
+    right: 5px;
 }
 
 a.small-button:hover {
