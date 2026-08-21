@@ -62,6 +62,10 @@ a.small-button {
     padding: 20px 50px;
     border-radius: 15px;
     text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 a.small-button:hover {
