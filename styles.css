@@ -18,21 +18,13 @@ p {
     color: #111; 
 }
 
-a.link {
-    color: #800;
-    text-decoration: none;
-}
-a.link:hover {
-    color: #b00;
-    text-decoration: underline;
-}
-
 a.button-link {
     background-color: #800;
     color: #e66;
     padding: 20px 500px;
     border-radius: 15px;
     text-decoration: none;
+    margin: auto;
 }
 
 a.button-link:hover {
