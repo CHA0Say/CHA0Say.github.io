@@ -4,7 +4,7 @@ body {
     font-family: papyrus;
     text-align: center;
     font-size: 100%;
-    margin-top: 40px;
+    margin-top: 5px;
     margin-bottom: 40px;
 }
 
@@ -40,7 +40,7 @@ a.button-link:hover {
 h1 {
     font-size: 150%;
     text-decoration: underline;
-    color: #b00;
+    color: #e66;
 }
 h2 {
     font-size: 120%;
