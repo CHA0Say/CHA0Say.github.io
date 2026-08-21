@@ -56,3 +56,14 @@ div.title-bar {
     margin-top: 15px;
     margin-bottom: 15px;
 }
+a.small-button {
+    background-color: #800;
+    color: white;
+    padding: 20px 50px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+a.small-button:hover {
+    background-color: #b00;
+}
