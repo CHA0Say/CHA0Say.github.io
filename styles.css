@@ -22,14 +22,14 @@ a.link {
     text-decoration: none;
 }
 a.link:hover {
-  color: #b00;
+    color: #b00;
     text-decoration: underline;
 }
 
 a.button-link {
     background-color: #800;
     color: white;
-    padding: 20px 750px;
+    padding: 20px 500px;
     border-radius: 15px;
     text-decoration: none;
 }
@@ -37,4 +37,13 @@ a.button-link {
 a.button-link:hover {
     background-color: #b00;
 }
-
+h1 {
+    font-size: 150%;
+    text-decoration: underline;
+    color: #b00;
+}
+h2 {
+    font-size: 120%;
+    text-decoration: underline;
+    color: #800;
+}
