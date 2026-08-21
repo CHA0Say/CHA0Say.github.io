@@ -25,6 +25,7 @@ a.button-link {
     border-radius: 15px;
     text-decoration: none;
     margin: auto;
+    margin-bottom: 40px;
 }
 
 a.button-link:hover {
