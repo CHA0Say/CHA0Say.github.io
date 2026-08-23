@@ -35,6 +35,9 @@ p {
 .keyBad {
     color: #21e;
 }
+.lesserbad {
+    color: #05b;
+}
 
 h1 {
     font-size: 150%;
