@@ -21,6 +21,12 @@ p {
 .hero {
     color: #e12;
 }
+.king {
+    color: #fc2;
+}
+.enemy {
+    color: #06d;
+}
 
 /* Keyword highlights */
 .keyGood {
