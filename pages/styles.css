@@ -35,8 +35,16 @@ p {
 .keyBad {
     color: #21e;
 }
-.lesserbad {
+.lesserBad {
     color: #05b;
+}
+
+/* other stuff*/
+.lvl {
+    color: #666;
+}
+.item {
+    color: #999;
 }
 
 h1 {
