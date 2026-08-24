@@ -1,0 +1,4 @@
+- add "<<< BACK" buttons (all pages)
+- make title bar link to main page (all pages)
+- write/add pages 5+
+- art (obv)
